@@ -1,7 +1,10 @@
 #!/bin/bash
 # Build all projects with nodejs
-projects=("itsaky" "feslake")
+projects=("itsaky" "feslake" "github")
 
 for i in "${projects[@]}"; do
-    node "./$i/build.js"
+	cp build.js "$i"
+	cd "$i"
+    node "build.js"
+	cd ..
 done
