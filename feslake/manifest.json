@@ -1,0 +1,16 @@
+{
+  "id": "io.kiquar.theme.feslake",
+  "name": "Feslake theme",
+  "version": "0.1.0",
+  "description": "Theme with warm colors",
+  "type": "theme",
+  "author": {
+    "displayName": "KiquarSL",
+	"github": "KiquarSL"
+  },
+  "repository": "https:\/\/github.com\/KiquarSL/xed-themes",
+  "license": "MIT",
+  "tags": [ "theme", "warm-colors"],
+  "minAppVersion": 95,
+  "inheritBase": false
+}

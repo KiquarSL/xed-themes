@@ -1,0 +1,9 @@
+{
+  "name": "feslake-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Theme with warm colors.",
+  "scripts": {
+    "build": "node build.js"
+  }
+}

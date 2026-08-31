@@ -1,0 +1,16 @@
+{
+  "id": "io.kiquar.theme.itsaky",
+  "name": "Itsaky Theme",
+  "version": "0.1.0",
+  "description": "A theme color based on AndroidIDE",
+  "type": "theme",
+  "author": {
+    "displayName": "KiquarSL",
+	"github": "KiquarSL"
+  },
+  "repository": "https:\/\/github.com\/KiquarSL/xed-themes",
+  "license": "MIT",
+  "tags": [ "theme", "androidide"],
+  "minAppVersion": 95,
+  "inheritBase": false
+}
