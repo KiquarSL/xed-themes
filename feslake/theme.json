@@ -8,7 +8,13 @@
             "onSurface": "#1A1A1A",
             "surfaceVariant": "#E8E8E8",
             "onSurfaceVariant": "#1A1A1A",
+            "surfaceContainerLowest": "#FFFFFF",
+            "surfaceContainerLow": "#F5F5F5",
             "surfaceContainer": "#E8E8E8",
+            "surfaceContainerHigh": "#E8E8E8",
+            "surfaceContainerHighest": "#E8E8E8",
+            "surfaceDim": "#F5F5F5",
+            "surfaceBright": "#FFFFFF",
             "primary": "#D97D2D",
             "onPrimary": "#FFFFFF",
             "primaryContainer": "#F5E6D3",
@@ -17,10 +23,21 @@
             "onSecondary": "#FFFFFF",
             "secondaryContainer": "#F5E6D3",
             "onSecondaryContainer": "#4A2A10",
+            "tertiary": "#D97D2D",
+            "onTertiary": "#FFFFFF",
+            "tertiaryContainer": "#F5E6D3",
+            "onTertiaryContainer": "#4A2A10",
             "error": "#F2392B",
             "onError": "#FFFFFF",
+            "errorContainer": "#F2392B",
+            "onErrorContainer": "#FFFFFF",
             "outline": "#BDBDBD",
-            "outlineVariant": "#9E9E9E"
+            "outlineVariant": "#9E9E9E",
+            "inverseSurface": "#1A1A1A",
+            "inverseOnSurface": "#FFFFFF",
+            "inversePrimary": "#D97D2D",
+            "surfaceTint": "#D97D2D",
+            "scrim": "#000000"
         },
         "editorColors": {
             "problem_typo": "#B8A06A",
@@ -127,6 +144,12 @@
                 "settings": {
                     "foreground": "#C87CBD"
                 }
+            },
+            {
+                "scope": "support.type.property-name.json, support.type.property-name.yaml, support.type.property-name.toml",
+                "settings": {
+                    "foreground": "#BA68C8"
+                }
             }
         ]
     },
@@ -138,7 +161,13 @@
             "onSurface": "#bbbbbb",
             "surfaceVariant": "#2D2D2D",
             "onSurfaceVariant": "#bbbbbb",
+            "surfaceContainerLowest": "#1D1D1D",
+            "surfaceContainerLow": "#1D1D1D",
             "surfaceContainer": "#2D2D2D",
+            "surfaceContainerHigh": "#2D2D2D",
+            "surfaceContainerHighest": "#2D2D2D",
+            "surfaceDim": "#1D1D1D",
+            "surfaceBright": "#2D2D2D",
             "primary": "#D97D2D",
             "onPrimary": "#bbbbbb",
             "primaryContainer": "#2D2D2D",
@@ -147,10 +176,21 @@
             "onSecondary": "#bbbbbb",
             "secondaryContainer": "#2D2D2D",
             "onSecondaryContainer": "#bbbbbb",
+            "tertiary": "#D97D2D",
+            "onTertiary": "#bbbbbb",
+            "tertiaryContainer": "#2D2D2D",
+            "onTertiaryContainer": "#bbbbbb",
             "error": "#F2392B",
             "onError": "#bbbbbb",
+            "errorContainer": "#F2392B",
+            "onErrorContainer": "#bbbbbb",
             "outline": "#43413F",
-            "outlineVariant": "#4B4B4B"
+            "outlineVariant": "#4B4B4B",
+            "inverseSurface": "#bbbbbb",
+            "inverseOnSurface": "#1D1D1D",
+            "inversePrimary": "#D97D2D",
+            "surfaceTint": "#D97D2D",
+            "scrim": "#000000"
         },
         "editorColors": {
             "problem_typo": "#D7B86A",
@@ -256,6 +296,12 @@
                 "scope": "variable, entity.name.section",
                 "settings": {
                     "foreground": "#C87CBD"
+                }
+            },
+            {
+                "scope": "support.type.property-name.json, support.type.property-name.yaml, support.type.property-name.toml",
+                "settings": {
+                    "foreground": "#BA68C8"
                 }
             }
         ]
