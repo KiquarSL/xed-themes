@@ -4,11 +4,6 @@ Kit of themes created by KiquarSL.
 
 ## Build themes
 
-For build single theme:
-```bash
-cd %project_name%
-node build.js
-```
 For build all themes:
 ```bash
 ./build.sh
