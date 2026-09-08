@@ -1,3 +1,3 @@
-# Itsaky theme
+# Tokyo Night theme
 
-Itsaky theme created by KiquarSL and based on colors from [TokyoNight](https://github.com/tokyo-night/tokyo-night-vscode-theme).
+Theme created by KiquarSL and based on colors from [TokyoNight](https://github.com/tokyo-night/tokyo-night-vscode-theme).
