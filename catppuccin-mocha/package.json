@@ -1,0 +1,9 @@
+{
+  "name": "catppuccin-mocha-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A theme based on Catppuccin Mocha for Xed-Editor",
+  "scripts": {
+    "build": "node build.js"
+  }
+}

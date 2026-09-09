@@ -1,8 +1,8 @@
 {
-  "id": "io.kiquar.theme.tokyonight",
-  "name": "Tokyo Night Theme",
-  "version": "0.2.0",
-  "description": "A theme color based on Tokyo Night",
+  "id": "io.kiquar.theme.catppuccin.mocha",
+  "name": "Catppuccin Mocha",
+  "version": "0.1.0",
+  "description": "A theme based on Catppuccin Mocha for Xed-Editor",
   "type": "theme",
   "author": {
     "displayName": "KiquarSL",
