@@ -1,4 +1,4 @@
-t#!/bin/bash
+#!/bin/bash
 # Build all projects with nodejs
 projects=("itsaky" "feslake" "github" "darcula" "tokyo-night" "catppuccin-mocha")
 
