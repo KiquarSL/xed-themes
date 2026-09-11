@@ -1,7 +1,7 @@
 {
   "id": "io.kiquar.theme.darcula",
   "name": "Darcula Theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A theme color based on Darcula",
   "type": "theme",
   "author": {

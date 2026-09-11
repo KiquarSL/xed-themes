@@ -1,3 +1,3 @@
-# Xed Catppuccin Mocha
+# Catppuccin Mocha
 
-A theme based on Catpuccin Mocha. Colors for light theme is custom.
+A theme based on Catpuccin Mocha. 

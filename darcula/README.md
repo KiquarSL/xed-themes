@@ -1,3 +1,3 @@
 # Darcula Theme
 
-A theme color based on Darcula
+A theme color based on Darcula.
